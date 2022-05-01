@@ -59,10 +59,10 @@ You should see again see the messages about a Python app being detected and once
 
 ## Credits
 
-    [𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊](https://github.com/DARKEMPIRESL) - ``Owner``
+ - [𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊](https://github.com/DARKEMPIRESL) - ``Owner``
 
 ## Support
 
-    🔱 [TR TECH GUIDE | SL Bots🇱🇰](https://t.me/trtechguide)
-    🔱 [Team SL Bots🇱🇰](https://t.me/SLBotOfficial)
+- [TR TECH GUIDE | SL Bots🇱🇰](https://t.me/trtechguide)
+- [Team SL Bots🇱🇰](https://t.me/SLBotOfficial)
  
